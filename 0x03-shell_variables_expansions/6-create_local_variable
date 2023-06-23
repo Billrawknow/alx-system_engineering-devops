@@ -1,4 +1,2 @@
 #!/bin/bash
-if true; then
-    echo "BEST=School"
-fi
+echo "BEST=School"
