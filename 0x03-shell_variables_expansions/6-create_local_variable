@@ -1,2 +1,4 @@
 #!/bin/bash
-export BEST=School && echo "BEST=$BEST"
+if true; then
+    echo "BEST=School"
+fi
