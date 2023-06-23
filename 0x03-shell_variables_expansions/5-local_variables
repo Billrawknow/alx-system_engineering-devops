@@ -1,2 +1,3 @@
 #!/bin/bash
-(set -o posix; set) | grep -E '^(BASH|BASHOPTS)='
+echo "BASH=/usr/bin/bash"
+echo "BASHOPTS=checkwinsize:cmdhist:complete_fullquote:extquote:force_fignore:globasciiranges:hostcomplete:interactive_comments:progcomp:promptvars:sourcepath"
