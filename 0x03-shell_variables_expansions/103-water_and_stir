@@ -1,3 +1,3 @@
-#!/bin/bash           
-export WATER="ewwatratewa" && export STIR="ti.itirtrtr"  
-export bestchol="${WATER}${STIR}" && echo "$bestchol"  
+#!/bin/bash
+water="ewwatratewa"; stir="ti.itirtrtr"; bestchol="${water}${stir}"; echo "$bestchol"
+
