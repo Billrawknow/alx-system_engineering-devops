@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( $(tr -d '[[:alpha:]]' <<< $WATER) + $(tr -d '[[:alpha:]]' <<< $STIR) ))
+echo "b"
